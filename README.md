@@ -1,6 +1,6 @@
 # Ingestion Postgres Project
 
-A simple ETL project that fecth data, transform it and load into db
+An ETL project that fecth data, transform it and load it into db
 
 Here I used a free Kaggle repo about internet price in 2022 - 3 tables
 
